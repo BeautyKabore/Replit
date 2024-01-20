@@ -1,2 +1,2 @@
 # Replit
-This Repo contains repo files.
+This Repo contains replit files.
